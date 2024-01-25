@@ -1,3 +1,4 @@
+// ความยาก ****
 const pyramid2 = () => {
   const size = 5;
   for (let i = 0; i < size; i++) {
